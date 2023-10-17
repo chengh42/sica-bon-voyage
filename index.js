@@ -13,6 +13,7 @@ const humans = [
   "沛恩",
   "Anita",
   "怡心",
+  "丁丁",
 ];
 
 const greetings = [
